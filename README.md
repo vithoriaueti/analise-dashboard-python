@@ -1,21 +1,24 @@
-# 📊 Dashboard de Vendas com Python
+# 📊 Análise de Dados de Vendas com Python
 
-Este projeto foi desenvolvido por mim com o objetivo de praticar visualização e análise de dados utilizando Python.
+Este projeto foi desenvolvido com o objetivo de praticar análise de dados utilizando Python, com foco na extração de informações relevantes a partir de uma base de dados de vendas.
 
 ## 🛠️ Tecnologias utilizadas
 - Python
 - Pandas
 - Matplotlib
 
-## 📊 O que foi feito
-- Criação de base de dados fictícia
+## 📊 Análises realizadas
+- Leitura e organização da base de dados
 - Cálculo do total de vendas
 - Análise de vendas por produto
 - Análise de vendas por região
-- Geração de gráficos para visualização dos dados
 
-## 📁 Arquivos do projeto
-- dashboard_vendas.py → código principal
+## 📈 Resultados
+Através da análise, foi possível identificar padrões de vendas e entender quais produtos possuem maior desempenho.
 
-## 💡 Sobre o projeto
-Este projeto foi desenvolvido com foco em aprendizado prático, buscando entender como transformar dados em informações visuais para facilitar a análise.
+## 📁 Estrutura do projeto
+- projeto.py → código principal da análise
+- vendas.csv → base de dados utilizada
+
+## 💡 Objetivo
+Este projeto foi desenvolvido com foco em aprendizado prático, visando aprimorar habilidades em manipulação e análise de dados.
