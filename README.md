@@ -11,6 +11,7 @@ Este projeto foi desenvolvido com o objetivo de praticar análise de dados utili
 - Cálculo do total de vendas
 - Análise de vendas por produto
 - Análise de vendas por região
+ 
 
 ## Resultados
 Através da análise, foi possível identificar padrões de vendas e entender quais produtos possuem maior desempenho.
